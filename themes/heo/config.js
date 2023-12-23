@@ -13,7 +13,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与心得',
   HEO_HERO_TITLE_3: 'KALAE.ME',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: 'https://kalae.me',
 
   // 英雄区显示三个置顶分类
